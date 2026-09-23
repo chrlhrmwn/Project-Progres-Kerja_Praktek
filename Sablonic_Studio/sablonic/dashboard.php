@@ -1,0 +1,1 @@
+<?php require_once __DIR__.'/includes/functions.php'; require_login(); $u=current_user(); if($u['role']!=='customer') redirect('admin/dashboard.php'); redirect('customer/dashboard.php');

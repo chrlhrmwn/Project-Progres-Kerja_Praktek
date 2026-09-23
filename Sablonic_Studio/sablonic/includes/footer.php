@@ -1,0 +1,1 @@
+<footer><b>SABLONIC STUDIO</b><span>Custom apparel & production management.</span></footer>

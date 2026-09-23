@@ -1,0 +1,1 @@
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Sablonic Studio</title><link rel="stylesheet" href="<?=str_contains($_SERVER['PHP_SELF'],'/admin/')||str_contains($_SERVER['PHP_SELF'],'/customer/')?'../':''?>assets/css/style.css">

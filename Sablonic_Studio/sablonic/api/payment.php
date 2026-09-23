@@ -1,0 +1,1 @@
+<?php http_response_code(501); echo json_encode(['ok'=>false,'message'=>'Payment ditangani oleh customer/order-detail.php.']);
